@@ -9,7 +9,3 @@ footer{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
-
-[epub|type~="preface"]{
-	margin-top: 20vh;
-}
