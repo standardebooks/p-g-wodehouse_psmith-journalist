@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/p-g-wodehouse/psmith-journalist</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-01-25T23:30:02Z</dc:date>
+		<meta property="dcterms:modified">2021-01-25T23:30:02Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -35,17 +35,17 @@
 		<meta property="se:subject">Comedy</meta>
 		<dc:description id="description">Psmith, visiting New York with Mike on a cricket tour, finds entertainment and trouble for himself in the newspaper business, stirring up trouble with New York’s notorious gangs.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Grown bored while accompanying his Cambridge chum Mike on a cricket tour of the United States, Psmith seeks adventure in New York City. He finds it in the form of the weekly newspaper &lt;i&gt;Cosy Moments&lt;/i&gt;, a completely bland and inoffensive publication at which, throughout charm and sheer force of personality, Psmith appoints himself an unpaid subeditor, fires the entire contributing staff, and embarks on a crusade against the slumlords, gangs, and boxing managers of his holiday destination.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Psmith, Journalist&lt;/i&gt; is the second of &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;Wodehouse&lt;/a&gt;’s &lt;a href="https://standardebooks.org/collections/psmith"&gt;Psmith novels&lt;/a&gt;, and is a marked departure from the author’s usual settings and themes. It presents a very strong social justice theme, with direct, harsh condemnation of exploitation, corruption, racism and inequality in early-twentieth century America, and its themes continue to resonate with readers a century later.&lt;/p&gt;
-			&lt;p&gt;The story first appeared in &lt;i&gt;The Captain&lt;/i&gt; magazine from October 1909 to February 1910, and was first published as a book, including 8 illustrations, by A &amp;amp; C Black in 1915. This Standard Ebook is based on the 1923 edition by the same publisher.&lt;/p&gt;
+			&lt;p&gt;Growing bored while accompanying his Cambridge chum Mike on a cricket tour of the United States, Psmith seeks adventure in New York City. He finds it in the form of the weekly newspaper &lt;i&gt;Cosy Moments&lt;/i&gt;, a completely bland and inoffensive publication at which, through charm and sheer force of personality, Psmith appoints himself an unpaid subeditor, fires the entire contributing staff, and embarks on a crusade against the slumlords, gangs, and boxing managers of his holiday destination.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Psmith, Journalist&lt;/i&gt; is the second of &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;Wodehouse&lt;/a&gt;’s &lt;a href="https://standardebooks.org/collections/psmith"&gt;Psmith novels&lt;/a&gt;, and is a marked departure from the author’s usual settings and themes. It presents a very strong social justice theme with direct, harsh condemnation of exploitation, corruption, racism, and inequality in early-twentieth century America, and its themes continue to resonate with readers a century later.&lt;/p&gt;
+			&lt;p&gt;The story first appeared in &lt;i&gt;The Captain&lt;/i&gt; magazine from October 1909 to February 1910, and was first published as a book, including eight illustrations, by A &amp;amp; C Black in 1915. This Standard Ebook is based on the 1923 edition by the same publisher.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2607</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.95638</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/007106734</dc:source>
 		<meta property="se:production-notes">Many hyphenated nouns in the original text were modernized to their versions in general current use, with or without hyphenation as per merriam-webster.com. In cases where there is no modern version in general use (i.e., no applicable entry in MW), the original was kept unless there was inconsistent usage throughout the 1923 edition. Hyphenated noun phrases in adjectival positions were also left unchanged, as this remains common in en-GB.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">58329</meta>
+		<meta property="se:reading-ease.flesch">76.11</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Psmith,_Journalist</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_psmith-journalist</meta>
 		<dc:creator id="author">P. G. Wodehouse</dc:creator>
@@ -78,6 +78,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
