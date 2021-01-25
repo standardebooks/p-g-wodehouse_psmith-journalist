@@ -33,15 +33,17 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85062975</meta>
 		<meta property="se:subject">Comedy</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Psmith, visiting New York with Mike on a cricket tour, finds entertainment and trouble for himself in the newspaper business, stirring up trouble with New York’s notorious gangs.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Grown bored while accompanying his Cambridge chum Mike on a cricket tour of the United States, Psmith seeks adventure in New York City. He finds it in the form of the weekly newspaper &lt;i&gt;Cosy Moments&lt;/i&gt;, a completely bland and inoffensive publication at which, throughout charm and sheer force of personality, Psmith appoints himself an unpaid subeditor, fires the entire contributing staff, and embarks on a crusade against the slumlords, gangs, and boxing managers of his holiday destination.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Psmith, Journalist&lt;/i&gt; is the second of &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;Wodehouse&lt;/a&gt;’s &lt;a href="https://standardebooks.org/collections/psmith"&gt;Psmith novels&lt;/a&gt;, and is a marked departure from the author’s usual settings and themes. It presents a very strong social justice theme, with direct, harsh condemnation of exploitation, corruption, racism and inequality in early-twentieth century America, and its themes continue to resonate with readers a century later.&lt;/p&gt;
+			&lt;p&gt;The story first appeared in &lt;i&gt;The Captain&lt;/i&gt; magazine from October 1909 to February 1910, and was first published as a book, including 8 illustrations, by A &amp;amp; C Black in 1915. This Standard Ebook is based on the 1923 edition by the same publisher.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2607</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.95638</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/007106734</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">Many hyphenated nouns in the original text were modernized to their versions in general current use, with or without hyphenation as per merriam-webster.com. In cases where there is no modern version in general use (i.e., no applicable entry in MW), the original was kept unless there was inconsistent usage throughout the 1923 edition. Hyphenated noun phrases in adjectival positions were also left unchanged, as this remains common in en-GB.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Psmith,_Journalist</meta>
