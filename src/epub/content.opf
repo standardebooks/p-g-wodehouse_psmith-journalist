@@ -47,7 +47,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/007106734</dc:source>
 		<meta property="se:production-notes">Many hyphenated nouns in the original text were modernized to their versions in general current use, with or without hyphenation as per merriam-webster.com. In cases where there is no modern version in general use (i.e., no applicable entry in MW), the original was kept unless there was inconsistent usage throughout the 1923 edition. Hyphenated noun phrases in adjectival positions were also left unchanged, as this remains common in en-GB.</meta>
 		<meta property="se:word-count">58329</meta>
-		<meta property="se:reading-ease.flesch">76.11</meta>
+		<meta property="se:reading-ease.flesch">76.22</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Psmith,_Journalist</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_psmith-journalist</meta>
 		<dc:creator id="author">P. G. Wodehouse</dc:creator>
